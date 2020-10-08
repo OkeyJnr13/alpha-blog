@@ -1,3 +1,3 @@
 # README
 
-The front-end: Error messages and flash helper (hash)
+The front-end: Update article functionality

@@ -10,7 +10,7 @@
   </head>
 
   <body>
-    <% flash.each do |name_key, msg_va| %>
+    <% flash.each do |name_key, msg_val| %>
       <%= msg_val %>
     <% end %>
     <%= yield %>
