@@ -1,5 +1,6 @@
 # README
 
-The front-end: Layout links
+DRY code: Don't Repeat Yourself
 
-- Add layout links
+- re-factoring
+- extract away the redundancies in code
